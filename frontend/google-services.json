@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356479187357",
+    "project_id": "sse-insta",
+    "storage_bucket": "sse-insta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356479187357:android:e0ffde01de5a87b5a85774",
+        "android_client_info": {
+          "package_name": "com.sse.insta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGdQP1RW4gBdunhcw_WQUVXv5W8GMZtnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
